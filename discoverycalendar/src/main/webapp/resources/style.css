@@ -30,6 +30,11 @@ h2 { font-size:2rem;}
 
 }
 
+.fc-event, .fc-event-dot {
+    background-color: #41873f!important;
+}
+
+
 td a.fc-day-grid-event {
   box-sizing: border-box;
   padding: .1rem .5rem;;
@@ -39,6 +44,9 @@ td a.fc-day-grid-event {
 .fc-unthemed td.fc-today {
     background: #CBBEB3;
 }
+
+
+.fc-event { border-color:#41873F!important;}
 
 button {
   text-transform:capitalize;
